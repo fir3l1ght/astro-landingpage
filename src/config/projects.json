@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "title": "Title",
+      "description": "Description",
+      "author": "Author",
+      "url": "URL",
+      "image": "images/learning.svg"
+    },
+    {
+      "title": "Title",
+      "description": "Description",
+      "author": "Author",
+      "url": "URL",
+      "image": "images/learning.svg"
+    },
+    {
+      "title": "Title",
+      "description": "Description",
+      "author": "Author",
+      "url": "URL",
+      "image": "images/learning.svg"
+    }
+  ]
+}
