@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Astro Islands",
+    "description": "Componente de UI interactivo en una página HTML predominantemente estática."
+  },
+  {
+    "title": "MPA",
+    "description": "Una Aplicación de múltiples páginas (MPA) es un sitio web que consta de varias páginas HTML, en su mayoría renderizadas en el servidor."
+  },
+  {
+    "title": "Integraciones",
+    "description": "Las Integraciones de Astro agregan nuevas funcionalidades a su proyecto con solo unas pocas líneas de código y permiten usar otros frameworks y herramientas como Vue o Tailwind."
+  },
+  {
+    "title": "Soporte de Markdown Nativo",
+    "description": "Astro permite el uso de Markdown ya que trata cualquier archivo .md (u otra extensión alternativa soportada) o .mdx dentro de la carpeta /src/pages como una página."
+  },
+  {
+    "title": "Enfocado en el Contenido",
+    "description": "Astro fue diseñado para sitios web ricos en contenido."
+  },
+  {
+    "title": "Servidor Primero",
+    "description": "Los sitios web se ejecutan más rápido cuando procesan HTML en el lado del servidor."
+  }
+]
