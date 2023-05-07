@@ -6,8 +6,8 @@ import { projects } from '../../config/projects.json';
 
 {
   projects.map(project => (
-    <div class="flex text-center md:text-left">
-      <div class="flex-1 gap-y-3">
+    <div class="flex flex-col mb-2 md:flex-row text-center md:text-left">
+      <div class="flex-1 p-4">
         <h2 class="font-bold text-3xl my-4">{project.title}</h2>
         <h3 class="font-bold text-2xl my-4">{project.author}</h3>
         <p class="my-3">{project.description}</p>
