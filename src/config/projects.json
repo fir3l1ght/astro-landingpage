@@ -1,25 +1,25 @@
 {
   "projects": [
     {
-      "title": "Title",
-      "description": "Description",
-      "author": "Author",
-      "url": "URL",
-      "image": "images/learning.svg"
+      "title": "miduConf",
+      "description": "Conferencia de Programación y Desarrollo.",
+      "author": "Miguel Ángel Durán (midudev)",
+      "url": "https://miduconf.com/",
+      "image": "images/miduConf.jpg"
     },
     {
-      "title": "Title",
-      "description": "Description",
-      "author": "Author",
-      "url": "URL",
-      "image": "images/learning.svg"
+      "title": "OpenReplay Blog",
+      "description": "Blog de Desarrollo Web de OpenReplay.",
+      "author": "OpenReplay",
+      "url": "https://blog.openreplay.com/",
+      "image": "images/openreplayblog.png"
     },
     {
-      "title": "Title",
-      "description": "Description",
-      "author": "Author",
-      "url": "URL",
-      "image": "images/learning.svg"
+      "title": "Developer Roadmaps",
+      "description": "Hojas de ruta, guías y otro contenido educativo para ayudar a los desarrolladores.",
+      "author": "Kamran Ahmed (kamranahmedse)",
+      "url": "https://roadmap.sh/",
+      "image": "images/roadmap.png"
     }
   ]
 }

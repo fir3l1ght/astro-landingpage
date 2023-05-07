@@ -1,0 +1,18 @@
+[
+  {
+    "logo": "images/vue.svg",
+    "name": "Vue.js"
+  },
+  {
+    "logo": "images/tailwind.svg",
+    "name": "Tailwind"
+  },
+  {
+    "logo": "images/markdown.svg",
+    "name": "Markdown"
+  },
+  {
+    "logo": "images/typescript.svg",
+    "name": "TypeScript"
+  }
+]
