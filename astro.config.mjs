@@ -8,4 +8,7 @@ export default defineConfig({
   integrations: [tailwind(), vue()],
   site: 'https://fir3l1ght.github.io',
   base: '/astro-landingpage',
+  build: {
+    assets: 'assets'
+  }
 });
